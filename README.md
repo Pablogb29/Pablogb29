@@ -64,9 +64,9 @@
 
 ---
 
-### 💡 Goals for 2025
+### 💡 Goals for 2026
 
-- 🚩 Become certified in OSCP, CPTS or CJCA 
+- 🚩 Become certified in CJCA and CPTS 
 - 🛠️ Work in cybersecurity
 
 ---
