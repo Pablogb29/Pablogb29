@@ -36,7 +36,7 @@ Cybersecurity engineer working on **identity, access governance, and security au
 <div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
 
 **This year**
 - IAM / Databricks security at Minsait Cyber
@@ -45,7 +45,7 @@ Cybersecurity engineer working on **identity, access governance, and security au
 - HTB Holo tier · Season 11
 
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
 
 **Next**
 - CPTS exam · **5 Nov 2026**
