@@ -1,5 +1,25 @@
+`.
+
+Assets in the profile repo root: `banner.png`, `htb-progress.svg`.
+
+Profile settings (also updatable via API):
+
+- Name: `Pablo Gutiérrez (M0k4)`
+- Bio: `Cybersecurity Engineer · transitioning to pentesting · Brussels`
+- Company: `Indra | Minsait Cyber`
+- Website: `https://www.pabloinfosec.com`
+- Pin: `HackTheBox` and `Webportfolio_2026`
+
+Do not use relative image paths (`banner.png`) in HTML `<img>` tags — the profile page is `github.com/Pablogb29`, so they 404. Use `raw.githubusercontent.com`.
+
+Do not use the official HTB badge image: it exposes the platform nickname and rank, not the professional name.
+
+---
+
+COPY FROM HERE
+
 <div align="center">
-  <img src="banner.png" alt="M0k4 vortex — absorbing knowledge" width="100%" />
+  <img src="https://raw.githubusercontent.com/Pablogb29/Pablogb29/main/banner.png" alt="Pablo Gutiérrez — M0k4" width="100%" />
 </div>
 
 <h1 align="center">Pablo Gutiérrez</h1>
@@ -11,8 +31,8 @@
 
 <p align="center">
   <a href="https://www.pabloinfosec.com"><img src="https://img.shields.io/badge/Portfolio-pabloinfosec.com-0A0A0A?style=for-the-badge&labelColor=7C3AED" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/pabloinfosec"><img src="https://img.shields.io/badge/LinkedIn-pabloinfosec-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=7C3AED" alt="LinkedIn" /></a>
-  <a href="https://github.com/Pablogb29/HackTheBox"><img src="https://img.shields.io/badge/Write-ups-HackTheBox-0A0A0A?style=for-the-badge&labelColor=7C3AED" alt="Write-ups" /></a>
+  <a href="https://www.linkedin.com/in/pabloinfosec"><img src="https://img.shields.io/badge/LinkedIn-pabloinfosec-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=7C3AED" alt="LinkedIn" /></a>
+  <a href="https://github.com/Pablogb29/HackTheBox"><img src="https://img.shields.io/badge/HTB_writeups-HackTheBox-0A0A0A?style=for-the-badge&labelColor=7C3AED" alt="HTB write-ups" /></a>
   <a href="mailto:pabloinfosec@gmail.com"><img src="https://img.shields.io/badge/Email-pabloinfosec-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A855F7&labelColor=7C3AED" alt="Email" /></a>
 </p>
 
@@ -20,22 +40,16 @@
   <img src="https://img.shields.io/badge/CJCA-Completed-7C3AED?style=flat-square" alt="CJCA completed" />
   <img src="https://img.shields.io/badge/CAST%20Permanent%20ICT-Successful%20Aug%202026-7C3AED?style=flat-square" alt="CAST Permanent ICT" />
   <img src="https://img.shields.io/badge/HTB-82%20machines-7C3AED?style=flat-square" alt="82 HTB machines" />
-  <img src="https://img.shields.io/badge/Write--ups-73-7C3AED?style=flat-square" alt="73 write-ups" />
+  <img src="https://img.shields.io/badge/Writeups-73-7C3AED?style=flat-square" alt="73 write-ups" />
   <img src="https://img.shields.io/badge/CPTS-5%20Nov%202026-7C3AED?style=flat-square" alt="CPTS 5 Nov 2026" />
   <img src="https://img.shields.io/badge/OSCP-Planned%202027-3F3F46?style=flat-square" alt="OSCP planned 2027" />
-</p>
-
-<p align="center">
-  <a href="https://app.hackthebox.com/public/users/653281">
-    <img src="https://www.hackthebox.com/badge/image/1583498" alt="Hack The Box profile badge" />
-  </a>
 </p>
 
 ---
 
 ## Now
 
-Cybersecurity engineer working on **identity, access governance, and security automation** at Minsait Cyber (Indra). Offensive practice is public: Hack The Box machines and OSCP-oriented write-ups under **M0k4**. Successful EPSO CAST Permanent candidate for **Information and Communication Technologies** — passed the reasoning tests, next phase is recruitment by EU institutions for ICT contract staff.
+Cybersecurity engineer working on **identity, access governance, and security automation** at Minsait Cyber (Indra). Offensive practice is public: Hack The Box machines and OSCP-oriented write-ups under **M0k4**. Successful EPSO CAST Permanent candidate for **Information and Communication Technologies** — passed the reasoning tests; next phase is recruitment by EU institutions for ICT contract staff.
 
 <table>
   <tr>
@@ -67,19 +81,19 @@ Cybersecurity engineer working on **identity, access governance, and security au
 ## Practice
 
 <div align="center">
-  <img src="htb-progress.svg" alt="Hack The Box: 82 machines, 73 write-ups, Easy 64, Medium 16, Hard 2" width="840" />
+  <img src="https://raw.githubusercontent.com/Pablogb29/Pablogb29/main/htb-progress.svg" alt="Hack The Box: 82 machines, 73 write-ups, Easy 64, Medium 16, Hard 2" width="840" />
 </div>
 
 Write-ups live in [Pablogb29/HackTheBox](https://github.com/Pablogb29/HackTheBox). Methodology, tooling, and mitigations — **no flags**.
 
-| Machine | Level | Focus | Write-up |
-| --- | --- | --- | --- |
-| [Administrator](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Administrator.md) | Medium | Windows / AD | [Open](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Administrator.md) |
-| [Certified](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Certified/README.md) | Medium | Windows / AD | [Open](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Certified/README.md) |
-| [Interpreter](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Interpreter/README.md) | Medium | Linux | [Open](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Interpreter/README.md) |
-| [EscapeTwo](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/EscapeTwo/README.md) | Easy | Windows / AD | [Open](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/EscapeTwo/README.md) |
-| [Cicada](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/Cicada/README.md) | Easy | Windows / AD | [Open](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/Cicada/README.md) |
-| [Support](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/Support/README.md) | Easy | Windows / AD | [Open](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/Support/README.md) |
+| Machine | Level | Focus |
+| --- | --- | --- |
+| [Administrator](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Administrator.md) | Medium | Windows / AD |
+| [Certified](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Certified/README.md) | Medium | Windows / AD |
+| [Interpreter](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Interpreter/README.md) | Medium | Linux |
+| [EscapeTwo](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/EscapeTwo/README.md) | Easy | Windows / AD |
+| [Cicada](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/Cicada/README.md) | Easy | Windows / AD |
+| [Support](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/Support/README.md) | Easy | Windows / AD |
 
 ---
 
@@ -87,11 +101,11 @@ Write-ups live in [Pablogb29/HackTheBox](https://github.com/Pablogb29/HackTheBox
 
 ```mermaid
 flowchart LR
-  A[IAM / Blue Team<br/>Minsait Cyber] --> B[AD labs + HTB<br/>82 machines]
+  A[IAM at Minsait Cyber] --> B[HTB 82 machines]
   B --> C[CJCA]
-  C --> D[CPTS · Nov 2026]
-  D --> E[OSCP · 2027]
-  A --> F[CAST Permanent ICT<br/>next phase]
+  C --> D[CPTS Nov 2026]
+  D --> E[OSCP 2027]
+  A --> F[CAST Permanent ICT]
 ```
 
 | Credential | Status |
@@ -124,16 +138,8 @@ Not a tool dump — the stack that shows up in work and write-ups.
 ## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pablogb29&show_icons=true&hide_rank=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=A855F7&icon_color=A855F7&text_color=D1D5DB&ring_color=7C3AED" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablogb29&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=A855F7&text_color=D1D5DB" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pablogb29&theme=radical&hide_border=true&background=0A0A0A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A1A1AA&dates=A1A1AA" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pablogb29&bg_color=0a0a0a&color=c4b5fd&line=a855f7&point=7c3aed&area=true&hide_border=true&custom_title=Contributions" alt="Contribution graph" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Pablogb29&show_icons=true&hide_rank=true&hide_border=true&bg_color=0A0A0A&title_color=A855F7&icon_color=A855F7&text_color=D1D5DB&ring_color=7C3AED" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pablogb29&layout=compact&langs_count=6&hide_border=true&bg_color=0A0A0A&title_color=A855F7&text_color=D1D5DB" alt="Top languages" />
 </div>
 
 ---
