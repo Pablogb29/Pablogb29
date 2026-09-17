@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.hackthebox.com/users/1583498">
+  <a href="https://app.hackthebox.com/public/users/653281">
     <img src="https://www.hackthebox.com/badge/image/1583498" alt="Hack The Box profile badge" />
   </a>
 </p>
