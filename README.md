@@ -1,23 +1,3 @@
-`.
-
-Assets in the profile repo root: `banner.png`, `htb-progress.svg`.
-
-Profile settings (also updatable via API):
-
-- Name: `Pablo Gutiérrez (M0k4)`
-- Bio: `Cybersecurity Engineer · transitioning to pentesting · Brussels`
-- Company: `Indra | Minsait Cyber`
-- Website: `https://www.pabloinfosec.com`
-- Pin: `HackTheBox` and `Webportfolio_2026`
-
-Do not use relative image paths (`banner.png`) in HTML `<img>` tags — the profile page is `github.com/Pablogb29`, so they 404. Use `raw.githubusercontent.com`.
-
-Do not use the official HTB badge image: it exposes the platform nickname and rank, not the professional name.
-
----
-
-COPY FROM HERE
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pablogb29/Pablogb29/main/banner.png" alt="Pablo Gutiérrez — M0k4" width="100%" />
 </div>
@@ -80,9 +60,13 @@ Cybersecurity engineer working on **identity, access governance, and security au
 
 ## Practice
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pablogb29/Pablogb29/main/htb-progress.svg" alt="Hack The Box: 82 machines, 73 write-ups, Easy 64, Medium 16, Hard 2" width="840" />
-</div>
+**82 machines solved** · **73 write-ups** · Linux 45 · Windows 36
+
+| Difficulty | Solved |
+| --- | ---: |
+| Easy | 64 |
+| Medium | 16 |
+| Hard | 2 |
 
 Write-ups live in [Pablogb29/HackTheBox](https://github.com/Pablogb29/HackTheBox). Methodology, tooling, and mitigations — **no flags**.
 
@@ -99,21 +83,14 @@ Write-ups live in [Pablogb29/HackTheBox](https://github.com/Pablogb29/HackTheBox
 
 ## Path
 
-```mermaid
-flowchart LR
-  A[IAM at Minsait Cyber] --> B[HTB 82 machines]
-  B --> C[CJCA]
-  C --> D[CPTS Nov 2026]
-  D --> E[OSCP 2027]
-  A --> F[CAST Permanent ICT]
-```
-
 | Credential | Status |
 | --- | --- |
 | CJCA — Hack The Box | Completed |
 | CAST Permanent ICT — EPSO | Successful · Aug 2026 |
 | CPTS — Hack The Box | Exam booked · 5 Nov 2026 |
 | OSCP — Offensive Security | Planned · 2027 |
+
+IAM at Minsait Cyber → HTB / CJCA → CPTS (Nov 2026) → OSCP (2027), in parallel with CAST Permanent ICT (next recruitment phase).
 
 Education: MSc Cybersecurity (Deloitte / IMF) · MSc Artificial Intelligence (IUNIT) · BEng Electronic Telecommunications (UAB). Diplomas on [pabloinfosec.com](https://www.pabloinfosec.com).
 
