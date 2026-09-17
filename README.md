@@ -1,76 +1,146 @@
-<h1 align="center">Hi, I'm Pablo 👨‍💻</h1>
+<div align="center">
+  <img src="banner.png" alt="M0k4 vortex — absorbing knowledge" width="100%" />
+</div>
+
+<h1 align="center">Pablo Gutiérrez</h1>
 
 <p align="center">
-  <em>Telecommunications & Cybersecurity Engineer | AI Developer | Automation Specialist</em>
+  <strong>M0k4</strong> · Cybersecurity Engineer at <strong>Indra | Minsait Cyber</strong><br />
+  IAM and security automation · transitioning to pentesting · Brussels
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Offensive+Security+Engineer;AI+Automation+Builder;Python%2C+Bash%2C+PowerShell;Always+Learning%2C+Always+Breaking" />
+  <a href="https://www.pabloinfosec.com"><img src="https://img.shields.io/badge/Portfolio-pabloinfosec.com-0A0A0A?style=for-the-badge&labelColor=7C3AED" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/pabloinfosec"><img src="https://img.shields.io/badge/LinkedIn-pabloinfosec-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=7C3AED" alt="LinkedIn" /></a>
+  <a href="https://github.com/Pablogb29/HackTheBox"><img src="https://img.shields.io/badge/Write-ups-HackTheBox-0A0A0A?style=for-the-badge&labelColor=7C3AED" alt="Write-ups" /></a>
+  <a href="mailto:pabloinfosec@gmail.com"><img src="https://img.shields.io/badge/Email-pabloinfosec-0A0A0A?style=for-the-badge&logo=gmail&logoColor=A855F7&labelColor=7C3AED" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pabloinfosec" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:pabloinfosec@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://pabloinfosec.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?logo=about.me&style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/CJCA-Completed-7C3AED?style=flat-square" alt="CJCA completed" />
+  <img src="https://img.shields.io/badge/CAST%20Permanent%20ICT-Successful%20Aug%202026-7C3AED?style=flat-square" alt="CAST Permanent ICT" />
+  <img src="https://img.shields.io/badge/HTB-82%20machines-7C3AED?style=flat-square" alt="82 HTB machines" />
+  <img src="https://img.shields.io/badge/Write--ups-73-7C3AED?style=flat-square" alt="73 write-ups" />
+  <img src="https://img.shields.io/badge/CPTS-5%20Nov%202026-7C3AED?style=flat-square" alt="CPTS 5 Nov 2026" />
+  <img src="https://img.shields.io/badge/OSCP-Planned%202027-3F3F46?style=flat-square" alt="OSCP planned 2027" />
 </p>
-
----
-
-### 🧠 About Me
-
-- 🎓 Engineer in Telecommunications and Cybersecurity  
-- 🛡️ Focused on **Red Team**, **Pentesting**, and **Secure Development**  
-- 🤖 Building tools with **Python**, **Flutter**, **Appium**, and **TensorFlow**
-- 🧪 Preparing for **OSCP**, active in **Hack The Box**
-- 🚀 Aiming to create my own company and patent innovative solutions
-
----
-
-### 🔧 Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-2E3440?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-2E3440?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-2E3440?logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-2E3440?logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-2E3440?logo=powershell&logoColor=white)
-
-### 🛠️ Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-2E3440?logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2E3440?logo=tensorflow&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-2E3440?logo=appium&logoColor=white)
-
-### 🔒 Cybersecurity & Pentesting
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2E3440?logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2E3440?logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-2E3440?logo=burpsuite&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-2E3440?logo=neo4j&logoColor=white)
-
-### ☁️ Platforms & DevOps
-![Linux](https://img.shields.io/badge/Linux-2E3440?logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2E3440?logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-2E3440?logo=firebase&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2E3440?logo=github-actions&logoColor=white)
-
----
-
-### 📈 Current Projects
-
-- 🧠 `TradeBotAlert` → Candle pattern alert bot with Stripe-based subscriptions  
-- 💰 `QuickTrack` → Personal finance Flutter app with widget, statistics, and data backup  
-- 🛡️ `ADLab Audit` → Full Red Team audit on Active Directory (Final Master's Project + professional report)  
-- 🤖 `AI Test Case Generator` → OCR-powered tool to auto-generate test cases from mobile app designs
-
----
-
-### 💡 Goals for 2026
-
-- 🚩 Become certified in CJCA and CPTS 
-- 🛠️ Work in cybersecurity
-
----
 
 <p align="center">
-  ⚙️ "Efficiency, precision, and creativity in everything I build."
+  <a href="https://app.hackthebox.com/users/1583498">
+    <img src="https://www.hackthebox.com/badge/image/1583498" alt="Hack The Box profile badge" />
+  </a>
 </p>
+
+---
+
+## Now
+
+Cybersecurity engineer working on **identity, access governance, and security automation** at Minsait Cyber (Indra). Offensive practice is public: Hack The Box machines and OSCP-oriented write-ups under **M0k4**. Successful EPSO CAST Permanent candidate for **Information and Communication Technologies** — passed the reasoning tests, next phase is recruitment by EU institutions for ICT contract staff.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**This year**
+- IAM / Databricks security at Minsait Cyber
+- Custom permission graphing for Databricks (Neo4j / PyVis)
+- HTB write-ups, OSCP-oriented, no flags
+- CAST Permanent ICT — next recruitment phase
+
+    </td>
+    <td width="50%" valign="top">
+
+**Next**
+- CPTS exam · **5 Nov 2026**
+- OSCP · **2027** (after CPTS)
+- EU institutions · ICT contract staff
+- More Active Directory attack-path write-ups
+
+    </td>
+  </tr>
+</table>
+
+> CAST Permanent — ICT (`EPSO/CAST/P/17/2017`). Reasoning tests passed in August 2026. This qualifies me for the next phase of recruitment, not for an automatic job offer.
+
+---
+
+## Practice
+
+<div align="center">
+  <img src="htb-progress.svg" alt="Hack The Box: 82 machines, 73 write-ups, Easy 64, Medium 16, Hard 2" width="840" />
+</div>
+
+Write-ups live in [Pablogb29/HackTheBox](https://github.com/Pablogb29/HackTheBox). Methodology, tooling, and mitigations — **no flags**.
+
+| Machine | Level | Focus | Write-up |
+| --- | --- | --- | --- |
+| [Administrator](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Administrator.md) | Medium | Windows / AD | [Open](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Administrator.md) |
+| [Certified](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Certified/README.md) | Medium | Windows / AD | [Open](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Certified/README.md) |
+| [Interpreter](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Interpreter/README.md) | Medium | Linux | [Open](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/MEDIUM/Interpreter/README.md) |
+| [EscapeTwo](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/EscapeTwo/README.md) | Easy | Windows / AD | [Open](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/EscapeTwo/README.md) |
+| [Cicada](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/Cicada/README.md) | Easy | Windows / AD | [Open](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/Cicada/README.md) |
+| [Support](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/Support/README.md) | Easy | Windows / AD | [Open](https://github.com/Pablogb29/HackTheBox/blob/main/Machines/EASY/Support/README.md) |
+
+---
+
+## Path
+
+```mermaid
+flowchart LR
+  A[IAM / Blue Team<br/>Minsait Cyber] --> B[AD labs + HTB<br/>82 machines]
+  B --> C[CJCA]
+  C --> D[CPTS · Nov 2026]
+  D --> E[OSCP · 2027]
+  A --> F[CAST Permanent ICT<br/>next phase]
+```
+
+| Credential | Status |
+| --- | --- |
+| CJCA — Hack The Box | Completed |
+| CAST Permanent ICT — EPSO | Successful · Aug 2026 |
+| CPTS — Hack The Box | Exam booked · 5 Nov 2026 |
+| OSCP — Offensive Security | Planned · 2027 |
+
+Education: MSc Cybersecurity (Deloitte / IMF) · MSc Artificial Intelligence (IUNIT) · BEng Electronic Telecommunications (UAB). Diplomas on [pabloinfosec.com](https://www.pabloinfosec.com).
+
+---
+
+## Stack I actually use
+
+Not a tool dump — the stack that shows up in work and write-ups.
+
+| Identity & cloud | Offensive practice | Engineering |
+| --- | --- | --- |
+| Azure IAM · Databricks SCIM | Linux / Windows internals | Python · SQL |
+| AWS security · ENS / ISO 27001 | Active Directory · BloodHound | Bash · PowerShell |
+| Neo4j + PyVis graphs | Nmap · Burp · AD attack paths | Git · Docker |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,windows,docker,aws,azure,git,githubactions" alt="Python Bash PowerShell Linux Windows Docker AWS Azure Git" />
+</p>
+
+---
+
+## GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pablogb29&show_icons=true&hide_rank=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=A855F7&icon_color=A855F7&text_color=D1D5DB&ring_color=7C3AED" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablogb29&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=A855F7&text_color=D1D5DB" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pablogb29&theme=radical&hide_border=true&background=0A0A0A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A1A1AA&dates=A1A1AA" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pablogb29&bg_color=0a0a0a&color=c4b5fd&line=a855f7&point=7c3aed&area=true&hide_border=true&custom_title=Contributions" alt="Contribution graph" />
+</div>
+
+---
+
+## Start here
+
+1. [pabloinfosec.com](https://www.pabloinfosec.com) — role, experience, diplomas, CAST letter, CJCA
+2. [HackTheBox write-ups](https://github.com/Pablogb29/HackTheBox) — methodology, no flags
+3. [Web portfolio 2026](https://github.com/Pablogb29/Webportfolio_2026) — this site
+4. [Hack The Box profile](https://app.hackthebox.com/users/1583498)
